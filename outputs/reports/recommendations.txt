@@ -1,0 +1,12 @@
+================================================================================
+BATTERY RUL IMPROVEMENT RECOMMENDATIONS
+================================================================================
+
+Model Performance: MAE=107.25, R2=0.2063
+
+Top Recommendations:
+  - Temperature: Keep battery between 15-25°C -> 30% life extension
+  - SoC Range: Maintain 20-80% charge range -> 35% life extension
+  - Charging: Limit fast charging to <20% of sessions -> 20% life extension
+  - Driving: Smooth acceleration/deceleration -> 15% life extension
+  - Storage: Store at 50-60% SoC if unused >1 week -> 10% life extension

@@ -1,0 +1,16 @@
+Selected_Features
+Cycle_Index
+Degradation_Rate
+Cycles_Completed
+Resistance_Growth_Ohm
+Internal_Resistance_Ohm
+Normalized_Cycle
+Discharge_Capacity_Ah
+SoH_%
+Capacity_Retention_%
+Capacity_Fade_Ah
+Avg_Voltage_V
+Energy_Efficiency_%
+Charge_Time_min
+Battery_Temperature_C
+Avg_Current_A

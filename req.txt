@@ -1,0 +1,22 @@
+# ===== CALCE RUL Deep Learning Project =====
+# Core packages
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning
+tensorflow
+h5py
+joblib
+
+# File handling
+scipy
+openpyxl
+xlrd
+
+# Utility
+tqdm
+
+
